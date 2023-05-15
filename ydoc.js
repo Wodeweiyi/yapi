@@ -1,8 +1,8 @@
 module.exports = {
-  "title": "YApi 接口管理平台",
+  "title": "Linking Fresh 接口管理平台",
   "keywords": "api管理,接口管理,接口文档,api文档",
   "author": "ymfe",
-  "description": "YApi 是高效、易用、功能强大的 api 管理平台，旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API，YApi 还为用户提供了优秀的交互体验，开发人员只需利用平台提供的接口数据写入工具以及简单的点击操作就可以实现接口的管理",
+  "description": "飞熊领鲜以“诚信成就，专业共赢”的价值观，搭建SaaS级数字供应链服务云平台，交易全流程可追溯，为合作伙伴提供公开、透明的上下游交易方案。",
   "plugins": ["search", "img-view"],
   "dist": "static/doc",
   "pluginsConfig": {

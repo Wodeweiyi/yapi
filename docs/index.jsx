@@ -1,7 +1,7 @@
 ---
 banner:
-  name: 'YApi'
-  desc: '旨在为开发、产品、测试人员提供更优雅的接口管理服务。可以帮助开发者轻松创建、发布、维护 API'
+  name: 'Linking Fresh'
+  desc: '让国人吃上安全健康的进口食材'
   btns: 
     - { name: '开始', href: './documents/index.html', primary: true }
     - { name: 'Github >', href: 'https://github.com/ymfe/yapi' }
